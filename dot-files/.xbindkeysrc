@@ -1,0 +1,29 @@
+# suspend
+"slock"
+  Mod4 + x
+
+# set volume up
+"amixer set 'Master' 5%+"
+  XF86AudioRaiseVolume
+
+# set volume down
+"amixer set 'Master' 5%-"
+  XF86AudioLowerVolume
+
+# screenshot
+"~/.rice/scripts/screenshot"
+  Mod2 + Print
+
+"~/.rice/scripts/screenshot screen"
+  Shift+Mod2 + Print
+
+"~/.rice/scripts/screenshot window"
+  Control+Mod2 + Print
+
+# increase brightness
+"light -A 5"
+  XF86MonBrightnessUp
+
+# decrease brightness
+"light -U 5"
+  XF86MonBrightnessDown
