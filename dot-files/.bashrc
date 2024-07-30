@@ -8,7 +8,7 @@ export LANG="en_US.UTF-8"
 export READER="zathura"
 export EDITOR="nvim"
 export SVN_EDITOR="nvim"
-export PS1="\[\e[32m\][\[\e[m\]\[\e[33m\]\u\[\e[m\]\[\e[32m\]@\[\e[m\]\[\e[31;40m\]\h\[\e[m\]:\[\e[36m\]\w\[\e[m\]\[\e[32m\]]\[\e[m\]\\$ "
+export PS1="\[\e[32m\][\[\e[m\]\[\e[33m\]\u\[\e[m\]\[\e[32m\]@\[\e[m\]\[\e[31m\]\h\[\e[m\]:\[\e[36m\]\w\[\e[m\]\[\e[32m\]]\[\e[m\]\\$ "
 
 # less/man colors
 export LESS=-R
